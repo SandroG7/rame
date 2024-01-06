@@ -1,0 +1,49 @@
+header{
+    background-color: lightgrey;
+    text-align: center;
+    padding: 25px;
+    font-family: "sofia"
+
+}
+.navbar{
+    background-color: rgb(54, 52, 59);
+    height: 50px;
+}
+aside{
+    width: 33%;
+    float: left;
+
+}
+section{
+    width: 33%;
+    float: left;
+}
+article{
+    width: 33%;
+    float: left;
+}
+footer{
+    display: block;
+    clear: both;
+    background-color:rgb(71, 66, 61);
+    text-align: center;
+    padding: 25px;
+
+}
+div{
+    text-align: center;
+    
+}
+img{
+/*width: 100%; */
+width: 500px;
+}
+
+#myBttn {
+    /* padding: 15px; */
+    margin: 10px;
+    background-color: rgb(60, 199, 153);
+}
+input{
+    margin: 10px;
+}
